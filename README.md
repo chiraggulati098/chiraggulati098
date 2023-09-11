@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋</h1>
 <h3 align="center">My name is Chirag Gulati and I'm a Machine Learning Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **Web Dev**
 
 - 📫 How to reach me **chiraggulati098@gmail.com**
 
